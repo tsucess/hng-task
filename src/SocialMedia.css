@@ -1,0 +1,14 @@
+.social_media{
+    display: flex;
+    flex-direction: row;
+    gap: 8;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.social_media > .link{
+    margin: 1rem;
+}
+.social_media > .link img{
+    width: 2rem;
+}
