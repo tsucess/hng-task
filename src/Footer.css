@@ -17,8 +17,6 @@
     width: 60%;
 }
 
-
-
 @media screen and (max-width: 600px) {
 
     .display_pic .share{
@@ -40,4 +38,11 @@
   }
 
   
+  }
+
+  @media screen and (max-width: 320px) {
+
+    .display_pic .share{
+        left: 120px; 
+    }
   }
