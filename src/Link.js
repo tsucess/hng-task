@@ -13,7 +13,7 @@ function Link() {
         <a className="link" href="https://books.zuri.team/" target="_blank" id="books" rel="noopener noreferrer" >
             Zuri Boots
         </a>
-        <a className="link" href="https://books.zuri.team/python-for-beginners?ref_id=Ogunsanyataofeeq" id="book__python" target="_blank" rel="noopener noreferrer" >
+        <a className="link" href="https://books.zuri.team/python-for-beginners?ref_id=Ogunsanyataofeeqabidemi" id="book__python" target="_blank" rel="noopener noreferrer" >
           Python Books
         </a>
         <a className="link" href="https://background.zuri.team/" target="_blank" id="pitch" rel="noopener noreferrer" >
