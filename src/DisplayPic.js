@@ -6,7 +6,7 @@ function DisplayPic() {
      
   return (
     <div className="display_pic">
-        <img src="./Content.png" className="share" alt="Profile_image" />
+      <a href="contact.html"><img src="./Content.png" className="share" alt="Profile_image" /></a>
             <div className="pic_bg">
         <img src="./displaypic.png" className="display_img" alt="Profile_image" />
         <FiCamera size="20" className="camera" />
